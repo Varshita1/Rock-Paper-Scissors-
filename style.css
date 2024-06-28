@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.main {
+
+  font-size: 40px;
+}
+
+.hello {
+
+  height: 80px;
+  width: 80px;
+}
+
+.rock {
+  background-color: black;
+  border-radius: 50%;
+  border: solid 2px white;
+}
+
+.paper {
+  background-color: black;
+  border-radius: 50%;
+  border: solid 2px white;
+}
+
+.scissors {
+  background-color: black;
+  border-radius: 50%;
+  border: solid 2px white;
